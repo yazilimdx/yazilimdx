@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-###:computer: C#.NET
-###:computer: T-SQL
+-:computer: C#.NET
+-:computer: T-SQL
 
 <!--
 **yazilimdx/yazilimdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
